@@ -1,5 +1,7 @@
 #  About Me:
-I’m currently working on Higher Order ICM<br>Extending the conventional ICM to novel Higher order ICM<br>
+I’m currently working on Higher Order ICM<br>Extended pair-wise ICM model to novel higher-order ICM on a 4,039-node Facebook network with 1.6M triangles</br>
+Discovered a non-monotonic Nash Equilibrium shift under group pressure — moderate group influence (0.2) amplifies the dominant firm’s reach by 14% over baseline, while strong group pressure (0.4) reduces competitive asymmetry, a finding
+novel to competitive diffusion literature
 
 
 ## 🌐 Socials:
