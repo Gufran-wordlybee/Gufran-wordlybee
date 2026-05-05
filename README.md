@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Rubik's Cube solver project<br>👯 I’m looking to collaborate on any project that aligns my interests<br>🌱 I’m currently learning development and adv DSA<br>
+#  About Me:
+I’m currently working on Higher Order ICM<br>Extending the conventional ICM to novel Higher order ICM<br>
 
 
 ## 🌐 Socials:
